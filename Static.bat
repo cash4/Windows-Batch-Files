@@ -21,5 +21,5 @@ netsh interface ip add address "Local Area Connection"        10.24.30.18       
 netsh interface ip add address "Local Area Connection"        10.24.30.26        255.255.255.248
 netsh interface ip add address "Local Area Connection"        192.168.1.150      255.255.255.0
 netsh interface ip add address "Local Area Connection"        192.168.3.150      255.255.255.0
-netsh interface ip add address "Local Area Connection"	      192.168.0.150	 255.255.255.0	
+netsh interface ip add address "Local Area Connection"	      192.168.0.150	 	 255.255.255.0	
 pause
